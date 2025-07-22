@@ -1,9 +1,21 @@
 body {
-  background-color: #lightpurple;
-  font-family: Arial, sans-serif;
+  background-color: #F5B0CB;
+  
+} 
+h1,
+{
+  font-weight: bold; color: #39375B;
+  font-family: cursive;
+  font-size: 150%;
 }
 
-h1 {
-  color: darkblue;
-  text-align: center;
+p {
+  color: #9f50ba;
+  font-family:sans-serif;
+  font-size: 80%;
 }
+
+li{
+  color: #7227c3;
+  font-family: sans-serif; 
+  font-size:78%;
